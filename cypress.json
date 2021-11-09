@@ -1,0 +1,4 @@
+{
+    "baseUrl": "https://contratafacil-segurovida.paas.sulamerica.com.br/identificacao?corretor_id=f6931093-e743-4553-88f6-9d04e3cec067",
+    "testFiles": "**/*.feature"
+}
